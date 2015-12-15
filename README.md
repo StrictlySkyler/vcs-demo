@@ -4,3 +4,5 @@ It's written in markdown.  Because easy, obvious things are great!
 You should clone this repo down, and do something with it.
 
 I am a dick and I modified it first.
+
+Dogs are cute
